@@ -27,7 +27,7 @@
 ## ale uwaga w Polsce wybory odbywają się co tydzień przez cały rok:
 
 
-od 22 lutego 2015 do 18 czerwca 2015 odbędzie się (już jest zaplanowane przez PKW) 280 akcji wyborczych:
+od 22 lutego 2015 do 14 czerwca 2015 odbędzie się (już jest zaplanowane przez PKW) 280 akcji wyborczych:
 
 
 patrz plik [Open_Season] (http://pkw.gov.pl/g2/oryginal/2015_03/1c23cc675230012fe6b3328a11f7a464.pdf) 
